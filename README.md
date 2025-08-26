@@ -17,5 +17,30 @@ This website is designed to showcase The Kettle’s menu, events, and atmosphere
 - **Backend (optional):** Node.js / Express / Firebase (if needed)
 - **Hosting:** Netlify / Vercel / GitHub Pages
 
-## 📂 Folder Structure
+## 🗺️ Site Map
+Here's a breakdown of the website structure:
+- Home
+  - About Us
+  - Menu Highlights
+  - Events Preview
+  - Instagram Feed
+  - Contact Info
+- Full Menu
+  - Coffees
+  - Cold Drinks
+  - Cakes
+  - Sandwiches
+- Events
+  - Sip & Sketch
+  - Coffee Tasting
+  - Bake & Learn
+  - Craft & Create Mornings
+- Gallery
+- Contact
+  - Location Map
+  - Contact Form
+ 
+
+
+
 

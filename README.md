@@ -84,6 +84,9 @@ public class README {
 }
 [![Open PDF](https://img.shields.io/badge/View-PDF-blue)](file:///C:/Users/Dell/Downloads/SiteMap%20image.pdf)
 
+[📄 Read the PDF](file:///C:/Users/Dell/Downloads/SiteMap%20image.pdf)
+
+
 
 
  

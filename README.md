@@ -19,26 +19,70 @@ This website is designed to showcase The Kettle’s menu, events, and atmosphere
 
 ## 🗺️ Site Map
 Here's a breakdown of the website structure:
-- Home
-  - About Us
-  - Menu Highlights
-  - Events Preview
-  - Instagram Feed
-  - Contact Info
-- Full Menu
-  - Coffees
-  - Cold Drinks
-  - Cakes
-  - Sandwiches
-- Events
-  - Sip & Sketch
-  - Coffee Tasting
-  - Bake & Learn
-  - Craft & Create Mornings
-- Gallery
-- Contact
-  - Location Map
-  - Contact Form
+/**
+ * README - The Kettle Café Website
+ * --------------------------------
+ *
+ * Project Overview:
+ * -----------------
+ * This project is a website for The Kettle Café. 
+ * The site provides essential business information, an online menu, 
+ * event details, customer reviews, social media links, and contact options.
+ *
+ * Sitemap Overview:
+ * -----------------
+ * 1. Home Page
+ *    - Header
+ *    - Introduction
+ *    - Operating Times
+ *    - Map / Directions to the Café
+ *    - Menu Button
+ *    - Footer
+ *
+ * 2. Full Menu
+ *    - Menu page (detailed list of offerings)
+ *    - Event Overview
+ *        • Events & About the Business
+ *        • Event 1: Sip and Sketch at Café
+ *              - Coffee Tasting & Brewing Demos
+ *        • Event 2: Bake and Learn at Café
+ *              - Craft and Create Mornings at Café
+ *
+ * 3. Contact Details
+ *    - Contact Page (form or details)
+ *    - Receive Newsletter (checkbox / subscription option)
+ *
+ * 4. Social Media
+ *    - Instagram of The Kettle Café
+ *    - Facebook of The Kettle Café
+ *
+ * 5. Reviews
+ *    - Reviews of the Café
+ *
+ * 6. Map
+ *    - Interactive Map to The Kettle Café
+ *
+ * Features:
+ * ---------
+ * • Responsive design for all screen sizes
+ * • Easy navigation with clear sitemap
+ * • Event highlights to promote community activities
+ * • Integrated social media for wider reach
+ * • Contact options including newsletter subscription
+ *
+ * Purpose:
+ * --------
+ * The website is designed to improve customer engagement, 
+ * showcase The Kettle Café’s offerings, promote events, and 
+ * make it easier for customers to find and visit the café.
+ *
+ */
+public class README {
+    public static void main(String[] args) {
+        System.out.println("See README documentation inside JavaDoc comments.");
+    }
+}
+Sitemap
  
 
 

@@ -82,9 +82,10 @@ public class README {
         System.out.println("See README documentation inside JavaDoc comments.");
     }
 }
-[![Open PDF](https://img.shields.io/badge/View-PDF-blue)](file:///C:/Users/Dell/Downloads/SiteMap%20image.pdf)
+[📄 View the PDF (Google Doc)](file:///C:/Users/Dell/Downloads/SiteMap%20image.pdf)
 
-[📄 Read the PDF](file:///C:/Users/Dell/Downloads/SiteMap%20image.pdf)
+
+
 
 
 

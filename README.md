@@ -82,7 +82,6 @@ public class README {
         System.out.println("See README documentation inside JavaDoc comments.");
     }
 }
-Sitemap [📄 View the PDF](file:///C:/Users/Dell/Downloads/SiteMap%20image.pdf)
 [![Open PDF](https://img.shields.io/badge/View-PDF-blue)](file:///C:/Users/Dell/Downloads/SiteMap%20image.pdf)
 
 

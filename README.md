@@ -17,7 +17,7 @@ This website is designed to showcase The Kettle’s menu, events, and atmosphere
 - **Backend (optional):** Node.js / Express / Firebase (if needed)
 - **Hosting:** Netlify / Vercel / GitHub Pages
 
-## 🗺️ Site Map
+  ## 🗺️ Site Map
 Here's a breakdown of the website structure:
 /**
  * README - The Kettle Café Website
@@ -83,6 +83,8 @@ public class README {
     }
 }
 Sitemap
+
+
  
 
 
